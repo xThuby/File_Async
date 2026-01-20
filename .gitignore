@@ -1,0 +1,9 @@
+examples/.build
+examples/example
+examples/example.dSYM
+
+examples/count_lines_in_tree
+examples/count_lines_in_tree.dSYM
+
+examples/WARNING_CREATES_LARGE_FILE
+examples/WARNING_CREATES_LARGE_FILE.dSYM
